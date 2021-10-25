@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/haup-laravel/database/migrations/2021_10_24_052454_create_permission_tables.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/resources/views/roles/edit.blade.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/app/Http/Controllers/RoleController.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/config/app.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/app/Http/Controllers/MainController.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/resources/views/roles/create.blade.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/resources/views/main.blade.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/resources/views/users/create.blade.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/resources/views/layout/sidebar.blade.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/resources/views/users/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/database/seeds/PermissionTableSeeder.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/composer.json</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/resources/views/users/edit.blade.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/app/Http/Controllers/UserController.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/resources/views/dashboard.blade.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/resources/views/roles/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/app/Http/Kernel.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/resources/views/login.blade.php</file>
+            <file>file:/C:/xampp/htdocs/haup-laravel/app/User.php</file>
+        </group>
+    </open-files>
+</project-private>
